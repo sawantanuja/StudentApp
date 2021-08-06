@@ -1,0 +1,7 @@
+asgiref==3.4.1
+bootstrap4==0.1.0
+css==0.1
+Django==3.2.5
+json5==0.9.6
+pytz==2021.1
+sqlparse==0.4.1
